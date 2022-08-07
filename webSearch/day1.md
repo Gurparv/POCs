@@ -22,4 +22,14 @@ Resource ->
 
 ### How Youtube search and Discovery Works
 ```
+Youtube algorithm is basically a 'real time feedback loop' which tailors video to each user different interest. It does its best to show right video to right viewer at the right time.across the whole planet.
+How they do this is with data.For each video they look at title,thumbnail,description.also how much of the video you are watching. if like is clicked or not.
+They even log what person has watched in the past and how long they have watched such stuff
+
+algorithm has 2 goals: 
+	1. Find more similar/relevant content.
 ```
+
+Video to check:
+Video search: https://softwareengineeringdaily.com/2018/06/22/video-search-with-rasty-turek/
+Image search:
